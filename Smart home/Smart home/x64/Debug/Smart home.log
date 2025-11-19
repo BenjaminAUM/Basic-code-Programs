@@ -1,0 +1,3 @@
+﻿  Smart home.cpp
+C:\Users\bpowel11\source\repos\Smart home\Smart home\Smart home.cpp(10,30): warning C4390: ';': empty controlled statement found; is this the intent?
+  Smart home.vcxproj -> C:\Users\bpowel11\source\repos\Smart home\x64\Debug\Smart home.exe
